@@ -1,3 +1,5 @@
+![rancid screenshot](https://cdn.rawgit.com/mastensg/rancid/1cadbcdb/rancid.png)
+
 rancid
 ======
 
